@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CryptoLocalChat.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="About" Type="System.String" Scope="User">
+      <Value Profile="(Default)">   Программа обмена шифрованными сообщениями по протоколу TCP/IP. 
+	 			Шифрование по протоколу RSA.
+<<<<<<< HEAD
+						2014 год.</Value>
+=======
+					2014 год.</Value>
+>>>>>>> origin/master
+    </Setting>
+  </Settings>
+</SettingsFile>

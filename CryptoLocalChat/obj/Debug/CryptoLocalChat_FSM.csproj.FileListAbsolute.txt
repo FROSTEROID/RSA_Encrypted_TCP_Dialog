@@ -1,0 +1,8 @@
+F:\Ivan\Projects\C#\VS\CryptoLocalChat\CryptoLocalChat_FSM\CryptoLocalChat\bin\Debug\CryptoLocalChat.exe.config
+F:\Ivan\Projects\C#\VS\CryptoLocalChat\CryptoLocalChat_FSM\CryptoLocalChat\bin\Debug\CryptoLocalChat.exe
+F:\Ivan\Projects\C#\VS\CryptoLocalChat\CryptoLocalChat_FSM\CryptoLocalChat\bin\Debug\CryptoLocalChat.pdb
+F:\Ivan\Projects\C#\VS\CryptoLocalChat\CryptoLocalChat_FSM\CryptoLocalChat\obj\Debug\CryptoLocalChat.DialogForm.resources
+F:\Ivan\Projects\C#\VS\CryptoLocalChat\CryptoLocalChat_FSM\CryptoLocalChat\obj\Debug\CryptoLocalChat.Properties.Resources.resources
+F:\Ivan\Projects\C#\VS\CryptoLocalChat\CryptoLocalChat_FSM\CryptoLocalChat\obj\Debug\CryptoLocalChat_FSM.csproj.GenerateResource.Cache
+F:\Ivan\Projects\C#\VS\CryptoLocalChat\CryptoLocalChat_FSM\CryptoLocalChat\obj\Debug\CryptoLocalChat.exe
+F:\Ivan\Projects\C#\VS\CryptoLocalChat\CryptoLocalChat_FSM\CryptoLocalChat\obj\Debug\CryptoLocalChat.pdb

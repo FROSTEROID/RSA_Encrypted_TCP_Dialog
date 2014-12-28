@@ -1,0 +1,16 @@
+F:\Ivan\Projects\C#\VS\CryptoLocalChat\CryptoLocalChat\bin\Release\CryptoLocalChat.exe.config
+F:\Ivan\Projects\C#\VS\CryptoLocalChat\CryptoLocalChat\bin\Release\CryptoLocalChat.exe
+F:\Ivan\Projects\C#\VS\CryptoLocalChat\CryptoLocalChat\bin\Release\CryptoLocalChat.pdb
+F:\Ivan\Projects\C#\VS\CryptoLocalChat\CryptoLocalChat\obj\Release\CryptoLocalChat.DialogForm.resources
+F:\Ivan\Projects\C#\VS\CryptoLocalChat\CryptoLocalChat\obj\Release\CryptoLocalChat.Properties.Resources.resources
+F:\Ivan\Projects\C#\VS\CryptoLocalChat\CryptoLocalChat\obj\Release\CryptoLocalChat.csproj.GenerateResource.Cache
+F:\Ivan\Projects\C#\VS\CryptoLocalChat\CryptoLocalChat\obj\Release\CryptoLocalChat.exe
+F:\Ivan\Projects\C#\VS\CryptoLocalChat\CryptoLocalChat\obj\Release\CryptoLocalChat.pdb
+F:\Ivan\Projects\C#\VS\CryptoLocalChat\BackUp\6\CryptoLocalChat\bin\Release\CryptoLocalChat.exe.config
+F:\Ivan\Projects\C#\VS\CryptoLocalChat\BackUp\6\CryptoLocalChat\obj\Release\CryptoLocalChat.exe
+F:\Ivan\Projects\C#\VS\CryptoLocalChat\BackUp\6\CryptoLocalChat\obj\Release\CryptoLocalChat.pdb
+F:\Ivan\Projects\C#\VS\CryptoLocalChat\BackUp\6\CryptoLocalChat\bin\Release\CryptoLocalChat.exe
+F:\Ivan\Projects\C#\VS\CryptoLocalChat\BackUp\6\CryptoLocalChat\bin\Release\CryptoLocalChat.pdb
+F:\Ivan\Projects\C#\VS\CryptoLocalChat\BackUp\6\CryptoLocalChat\obj\Release\CryptoLocalChat.DialogForm.resources
+F:\Ivan\Projects\C#\VS\CryptoLocalChat\BackUp\6\CryptoLocalChat\obj\Release\CryptoLocalChat.Properties.Resources.resources
+F:\Ivan\Projects\C#\VS\CryptoLocalChat\BackUp\6\CryptoLocalChat\obj\Release\CryptoLocalChat.csproj.GenerateResource.Cache

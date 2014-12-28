@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="CryptoLocalChat.DialogForm">
+    <Position X="0.75" Y="0.75" Width="5.25" />
+    <Members>
+      <Field Name="l_co" Hidden="true" />
+      <Field Name="l_in" Hidden="true" />
+      <Field Name="l_out" Hidden="true" />
+      <Field Name="lv_d_columnHeader" Hidden="true" />
+      <Field Name="lv_dialog" Hidden="true" />
+      <Field Name="rSAToolStripMenuItem" Hidden="true" />
+      <Field Name="tb_genKeySize" Hidden="true" />
+      <Field Name="tb_keyHereE" Hidden="true" />
+      <Field Name="tb_keyHereM" Hidden="true" />
+      <Field Name="tb_keyThereE" Hidden="true" />
+      <Field Name="tb_keyThereM" Hidden="true" />
+      <Field Name="tb_port_s" Hidden="true" />
+      <Field Name="toolStripMenuItem1" Hidden="true" />
+      <Field Name="toolStripSeparator1" Hidden="true" />
+      <Field Name="useOTPComboBox" Hidden="true" />
+      <Field Name="useRSAComboBox" Hidden="true" />
+      <Field Name="блокнотToolStripMenuItem" Hidden="true" />
+      <Field Name="вызватьToolStripMenuItem" Hidden="true" />
+      <Field Name="здешниеToolStripMenuItem" Hidden="true" />
+      <Field Name="ключиToolStripMenuItem" Hidden="true" />
+      <Field Name="назначитьБлокнотToolStripMenuItem" Hidden="true" />
+      <Field Name="ожидатьToolStripMenuItem1" Hidden="true" />
+      <Field Name="ПодготовитьToolStripMenuItem" Hidden="true" />
+      <Field Name="подключениеToolStripMenuItem" Hidden="true" />
+      <Field Name="сгенерироватьToolStripMenuItem" Hidden="true" />
+      <Field Name="синхронизироватьToolStripMenuItem" Hidden="true" />
+      <Field Name="синхронноToolStripMenuItem" Hidden="true" />
+      <Field Name="собеседникаToolStripMenuItem" Hidden="true" />
+      <Field Name="создатьСвоиКлючиToolStripMenuItem" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>iYJAAiEBhCAnAA2CBASBJAuGBgEgAgAAwAjIY6AECAg=</HashCode>
+      <FileName>DialogForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CryptoLocalChat.EncryptedDialog">
+    <Position X="6" Y="0.5" Width="4.5" />
+    <NestedTypes>
+      <Enum Name="CryptoLocalChat.EncryptedDialog.DialogState" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>EncryptedDialog.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAgAKQAQAAACIQDECQAGAAAAAAABEgRAghRoA=</HashCode>
+      <FileName>EncryptedDialog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
